@@ -1,0 +1,848 @@
+{
+  "T1": [
+    {
+      "id": "T1-1",
+      "tier": 1,
+      "rows": [
+        { "text": "Ants / Line", "icons": ["Daily use"] },
+        { "text": "Mistletoe / Poisonous", "icons": ["Science"] },
+        { "text": "Calm / Subdued", "icons": ["Concepts"] },
+        { "text": "Bees / Group", "icons": ["Daily use"] },
+        { "text": "Stonehenge", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T1-2",
+      "tier": 1,
+      "rows": [
+        { "text": "Orange / Round", "icons": ["Daily use"] },
+        { "text": "Chameleon / Change", "icons": ["Science"] },
+        { "text": "Frog / Jump", "icons": ["Daily use"] },
+        { "text": "Swallow / Travel", "icons": ["Daily use"] },
+        { "text": "Noah’s Arc", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T1-3",
+      "tier": 1,
+      "rows": [
+        { "text": "Cat / Play", "icons": ["Daily use"] },
+        { "text": "Lotus / Beautiful", "icons": ["Concepts"] },
+        { "text": "Cuckoo / Steal", "icons": ["Military"] },
+        { "text": "Cloud / Float", "icons": ["Science"] },
+        { "text": "Dragon", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T1-4",
+      "tier": 1,
+      "rows": [
+        { "text": "Grasshopper / Increase", "icons": ["Daily use"] },
+        { "text": "Rose / Love", "icons": ["Concepts"] },
+        { "text": "Fox / Wicked", "icons": ["Concepts"] },
+        { "text": "Stick / Long", "icons": ["Daily use"] },
+        { "text": "Fairy", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T1-5",
+      "tier": 1,
+      "rows": [
+        { "text": "Banana / bunch", "icons": ["Daily use"] },
+        { "text": "Lily / White", "icons": ["Concepts"] },
+        { "text": "Fang / Painful", "icons": ["Military"] },
+        { "text": "Sea / Large", "icons": ["Science"] },
+        { "text": "Oil / Black", "icons": ["Daily use"] }
+      ]
+    },
+    {
+      "id": "T1-6",
+      "tier": 1,
+      "rows": [
+        { "text": "Mole / Hide", "icons": ["Daily use"] },
+        { "text": "Lion / Strong", "icons": ["Concepts"] },
+        { "text": "Giraffe / Tall", "icons": ["Military"] },
+        { "text": "Turtle / Slow", "icons": ["Science"] },
+        { "text": "Eyes / See", "icons": ["Concepts"] }
+      ]
+    },
+    {
+      "id": "T1-7",
+      "tier": 1,
+      "rows": [
+        { "text": "Ivy / Grow", "icons": ["Daily use"] },
+        { "text": "Apple / Drop", "icons": ["Concepts"] },
+        { "text": "Bear / Find", "icons": ["Military"] },
+        { "text": "Gold / valuable", "icons": ["Science"] },
+        { "text": "Horse / Ride", "icons": ["Military"] }
+      ]
+    },
+    {
+      "id": "T1-8",
+      "tier": 1,
+      "rows": [
+        { "text": "Rain / Wet", "icons": ["Daily use"] },
+        { "text": "Flower / Bloom", "icons": ["Concepts"] },
+        { "text": "Gorilla / Strong", "icons": ["Concepts"] },
+        { "text": "Silver / Shiny", "icons": ["Science"] },
+        { "text": "Egg / lay", "icons": ["Daily use"] }
+      ]
+    },
+    {
+      "id": "T1-9",
+      "tier": 1,
+      "rows": [
+        { "text": "Salt / seasoned", "icons": ["Daily use"] },
+        { "text": "Hole / empty", "icons": ["Concepts"] },
+        { "text": "Elephant / raise", "icons": ["Daily use"] },
+        { "text": "Moon / mysterious", "icons": ["Wonder"] },
+        { "text": "Nectar / viscous", "icons": ["Science"] }
+      ]
+    },
+    {
+      "id": "T1-10",
+      "tier": 1,
+      "rows": [
+        { "text": "Rock / stop", "icons": ["Military"] },
+        { "text": "Blood / red", "icons": ["Science"] },
+        { "text": "Wolf / chase", "icons": ["Military"] },
+        { "text": "Mountain / steadfast", "icons": ["Concepts"] },
+        { "text": "Wave / sway", "icons": ["Daily use"] }
+      ]
+    },
+    {
+      "id": "T1-11",
+      "tier": 1,
+      "rows": [
+        { "text": "Cow / Transport", "icons": ["Daily use"] },
+        { "text": "Light / bright", "icons": ["Concepts"] },
+        { "text": "Mouse / die", "icons": ["Military"] },
+        { "text": "Coral / colorful", "icons": ["Wonder"] },
+        { "text": "Bird / Fly", "icons": ["Daily use"] }
+      ]
+    },
+    {
+      "id": "T1-12",
+      "tier": 1,
+      "rows": [
+        { "text": "Fish / Swim", "icons": ["Daily use"] },
+        { "text": "Cherry Blossom / Decorate", "icons": ["Concepts"] },
+        { "text": "Crocodile / Bite", "icons": ["Military"] },
+        { "text": "Seed / Develop", "icons": ["Science"] },
+        { "text": "Volcano / Scary", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T1-13",
+      "tier": 1,
+      "rows": [
+        { "text": "Salmon / return", "icons": ["Daily use"] },
+        { "text": "Goat / offer", "icons": ["Concepts"] },
+        { "text": "Flame / burn", "icons": ["Science"] },
+        { "text": "Star / extreme", "icons": ["Wonder"] },
+        { "text": "Meat / decay", "icons": ["Military"] }
+      ]
+    },
+    {
+      "id": "T1-14",
+      "tier": 1,
+      "rows": [
+        { "text": "Food / eat", "icons": ["Daily use"] },
+        { "text": "Death / strike", "icons": ["Military"] },
+        { "text": "Dog / bark", "icons": ["Daily use"] },
+        { "text": "Sand / fine", "icons": ["Science"] },
+        { "text": "Milk / drink", "icons": ["Daily use"] }
+      ]
+    },
+    {
+      "id": "T1-15",
+      "tier": 1,
+      "rows": [
+        { "text": "Water / transparent", "icons": ["Daily use"] },
+        { "text": "Heart / live", "icons": ["Concepts"] },
+        { "text": "Shoulder / support", "icons": ["Concepts"] },
+        { "text": "Insect / small", "icons": ["Daily use"] },
+        { "text": "Battle / fight", "icons": ["Military"] }
+      ]
+    },
+    {
+      "id": "T1-16",
+      "tier": 1,
+      "rows": [
+        { "text": "Leg / Walk", "icons": ["Daily use"] },
+        { "text": "Sun / warm", "icons": ["Concepts"] },
+        { "text": "Bone / knock", "icons": ["Military"] },
+        { "text": "Hot spring / hot", "icons": ["Science"] },
+        { "text": "Ice / cold", "icons": ["Science"] }
+      ]
+    },
+    {
+      "id": "T1-17",
+      "tier": 1,
+      "rows": [
+        { "text": "Butterfly / dance", "icons": ["Concepts"] },
+        { "text": "Earthquake / Tremble", "icons": ["Wonder"] },
+        { "text": "Stone / throw", "icons": ["Military"] },
+        { "text": "Board / press", "icons": ["Daily use"] },
+        { "text": "Parthenon Temple", "icons": ["Wonder"] }
+      ]
+    }
+  ],
+  "T2": [
+    {
+      "id": "T2-18",
+      "tier": 2,
+      "rows": [
+        { "text": "Hat / weave", "icons": ["Daily use"] },
+        { "text": "King / decide", "icons": ["Concepts"] },
+        { "text": "Blade / useful", "icons": ["Military"] },
+        { "text": "Earth / vast", "icons": ["Science"] },
+        { "text": "Elf", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T2-19",
+      "tier": 2,
+      "rows": [
+        { "text": "Clothes / wear", "icons": ["Daily use"] },
+        { "text": "Guard / careful", "icons": ["Military"] },
+        { "text": "Storm / rough", "icons": ["Wonder"] },
+        { "text": "Paper / write", "icons": ["Daily use"] },
+        { "text": "Zeus", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T2-20",
+      "tier": 2,
+      "rows": [
+        { "text": "Coffee / bitter", "icons": ["Daily use"] },
+        { "text": "Altar / arrange", "icons": ["Concepts"] },
+        { "text": "Sword / thrust", "icons": ["Military"] },
+        { "text": "Tool / use", "icons": ["Daily use"] },
+        { "text": "Doppelganger", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T2-21",
+      "tier": 2,
+      "rows": [
+        { "text": "Harp / Splendid", "icons": ["Concepts"] },
+        { "text": "Knowledge / Learn", "icons": ["Science"] },
+        { "text": "Weapon / hold", "icons": ["Military"] },
+        { "text": "Rope / bind", "icons": ["Daily use"] },
+        { "text": "Mermaid", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T2-22",
+      "tier": 2,
+      "rows": [
+        { "text": "Cheese / fermented", "icons": ["Daily use"] },
+        { "text": "Book / read", "icons": ["Daily use"] },
+        { "text": "Graveyard / end", "icons": ["Wonder"] },
+        { "text": "Arm / sturdy", "icons": ["Concepts"] },
+        { "text": "Bard / raptured", "icons": ["Concepts"] }
+      ]
+    },
+    {
+      "id": "T2-23",
+      "tier": 2,
+      "rows": [
+        { "text": "Grapes / several", "icons": ["Daily use"] },
+        { "text": "Alcohol / celebrate", "icons": ["Concepts"] },
+        { "text": "Disease / infect", "icons": ["Military"] },
+        { "text": "Gunpowder / explode", "icons": ["Military"] },
+        { "text": "Statue / shape", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T2-24",
+      "tier": 2,
+      "rows": [
+        { "text": "Sugar / sweet", "icons": ["Daily use"] },
+        { "text": "Scale / compare", "icons": ["Science"] },
+        { "text": "Shark / terrifying", "icons": ["Military"] },
+        { "text": "Wheel / turn", "icons": ["Science"] },
+        { "text": "Ship / forward", "icons": ["Daily use"] }
+      ]
+    },
+    {
+      "id": "T2-25",
+      "tier": 2,
+      "rows": [
+        { "text": "Market / Crowd", "icons": ["Daily use"] },
+        { "text": "Letter / send", "icons": ["Daily use"] },
+        { "text": "Spy / hide", "icons": ["Military"] },
+        { "text": "Painting / draw", "icons": ["Concepts"] },
+        { "text": "Boomerang / return", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T2-26",
+      "tier": 2,
+      "rows": [
+        { "text": "Wheat / preserve", "icons": ["Daily use"] },
+        { "text": "Angel / venerate", "icons": ["Wonder"] },
+        { "text": "Tobacco / smoke", "icons": ["Daily use"] },
+        { "text": "Key / lock", "icons": ["Daily use"] },
+        { "text": "Performer / entertain", "icons": ["Concepts"] }
+      ]
+    },
+    {
+      "id": "T2-27",
+      "tier": 2,
+      "rows": [
+        { "text": "Beans / process", "icons": ["Daily use"] },
+        { "text": "City / artificial", "icons": ["Concepts"] },
+        { "text": "Chess / think", "icons": ["Concepts"] },
+        { "text": "Surgery / care", "icons": ["Science"] },
+        { "text": "Church / pray", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T2-28",
+      "tier": 2,
+      "rows": [
+        { "text": "Merchant / Talkative", "icons": ["Concepts"] },
+        { "text": "Coffin / angular", "icons": ["Daily use"] },
+        { "text": "Tunnel / dig", "icons": ["Daily use"] },
+        { "text": "Glue / attach", "icons": ["Daily use"] },
+        { "text": "Catapult / mechanical", "icons": ["Military"] }
+      ]
+    },
+    {
+      "id": "T2-29",
+      "tier": 2,
+      "rows": [
+        { "text": "Shepherd / diligent", "icons": ["Concepts"] },
+        { "text": "Silk / smooth", "icons": ["Concepts"] },
+        { "text": "Cavalry / magnificent", "icons": ["Military"] },
+        { "text": "Zoo / various", "icons": ["Daily use"] },
+        { "text": "Clock / precise", "icons": ["Science"] }
+      ]
+    },
+    {
+      "id": "T2-30",
+      "tier": 2,
+      "rows": [
+        { "text": "Thread / unravel", "icons": ["Daily use"] },
+        { "text": "Dam / accumulate", "icons": ["Military"] },
+        { "text": "Handcuffs / chained", "icons": ["Military"] },
+        { "text": "Road / continued", "icons": ["Daily use"] },
+        { "text": "Crow / shady", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T2-31",
+      "tier": 2,
+      "rows": [
+        { "text": "Knife / cut", "icons": ["Daily use"] },
+        { "text": "Bread / daily", "icons": ["Daily use"] },
+        { "text": "Crossbow / pull", "icons": ["Military"] },
+        { "text": "Room / isolated", "icons": ["Concepts"] },
+        { "text": "Mirror / identical", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T2-32",
+      "tier": 2,
+      "rows": [
+        { "text": "Beetle / lift", "icons": ["Daily use"] },
+        { "text": "Wine / pressed", "icons": ["Daily use"] },
+        { "text": "Blizzard / shelter", "icons": ["Military"] },
+        { "text": "Windmill / power", "icons": ["Science"] },
+        { "text": "Hoe / sturdy", "icons": ["Daily use"] }
+      ]
+    },
+    {
+      "id": "T2-33",
+      "tier": 2,
+      "rows": [
+        { "text": "Furnace / cook", "icons": ["Daily use"] },
+        { "text": "Fireworks / flammable", "icons": ["Concepts"] },
+        { "text": "Castle / defend", "icons": ["Military"] },
+        { "text": "Jewels / glittering", "icons": ["Wonder"] },
+        { "text": "Door / open", "icons": ["Daily use"] }
+      ]
+    },
+    {
+      "id": "T2-34",
+      "tier": 2,
+      "rows": [
+        { "text": "Craftsmen / associate", "icons": ["Concepts"] },
+        { "text": "Flag / flutter", "icons": ["Concepts"] },
+        { "text": "Mercenary / hire", "icons": ["Military"] },
+        { "text": "Glasses / clarify", "icons": ["Daily use"] },
+        { "text": "Atlantis", "icons": ["Wonder"] }
+      ]
+    }
+  ],
+  "T3": [
+    {
+      "id": "T3-35",
+      "tier": 3,
+      "rows": [
+        { "text": "Passport", "icons": ["Daily use"] },
+        { "text": "Constitution", "icons": ["Concepts"] },
+        { "text": "Cipher", "icons": ["Military"] },
+        { "text": "Mold", "icons": ["Science"] },
+        { "text": "Mandala", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T3-36",
+      "tier": 3,
+      "rows": [
+        { "text": "Achilles Heel", "icons": ["Wonder"] },
+        { "text": "Santa Claus", "icons": ["Wonder"] },
+        { "text": "Gasoline", "icons": ["Science"] },
+        { "text": "Compass", "icons": ["Science"] },
+        { "text": "Zombie", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T3-37",
+      "tier": 3,
+      "rows": [
+        { "text": "Part-time Job", "icons": ["Daily use"] },
+        { "text": "Pipe Organ", "icons": ["Daily use"] },
+        { "text": "Gun", "icons": ["Military"] },
+        { "text": "Typewriter", "icons": ["Science"] },
+        { "text": "Labyrinth", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T3-38",
+      "tier": 3,
+      "rows": [
+        { "text": "Violin", "icons": ["Daily use"] },
+        { "text": "Mummy", "icons": ["Wonder"] },
+        { "text": "Radio", "icons": ["Science"] },
+        { "text": "Camera", "icons": ["Science"] },
+        { "text": "Ether", "icons": ["Science"] }
+      ]
+    },
+    {
+      "id": "T3-39",
+      "tier": 3,
+      "rows": [
+        { "text": "Oasis", "icons": ["Wonder"] },
+        { "text": "Demon", "icons": ["Wonder"] },
+        { "text": "Hammer throw", "icons": ["Military"] },
+        { "text": "Plate tectonics", "icons": ["Science"] },
+        { "text": "Vampire", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T3-40",
+      "tier": 3,
+      "rows": [
+        { "text": "Platypus", "icons": ["Daily use"] },
+        { "text": "Assassination", "icons": ["Military"] },
+        { "text": "Camel", "icons": ["Daily use"] },
+        { "text": "Gravity", "icons": ["Science"] },
+        { "text": "Detective", "icons": ["Concepts"] }
+      ]
+    },
+    {
+      "id": "T3-41",
+      "tier": 3,
+      "rows": [
+        { "text": "Chocolate", "icons": ["Daily use"] },
+        { "text": "Canal", "icons": ["Science"] },
+        { "text": "Resistance", "icons": ["Military"] },
+        { "text": "Lens", "icons": ["Science"] },
+        { "text": "Bribe", "icons": ["Concepts"] }
+      ]
+    },
+    {
+      "id": "T3-42",
+      "tier": 3,
+      "rows": [
+        { "text": "Whiskey", "icons": ["Daily use"] },
+        { "text": "Speech", "icons": ["Concepts"] },
+        { "text": "Hero", "icons": ["Wonder"] },
+        { "text": "Loom", "icons": ["Daily use"] },
+        { "text": "Coup d’etat", "icons": ["Military"] }
+      ]
+    },
+    {
+      "id": "T3-43",
+      "tier": 3,
+      "rows": [
+        { "text": "Cactus", "icons": ["Daily use"] },
+        { "text": "Magic", "icons": ["Wonder"] },
+        { "text": "Arc de Triomphe", "icons": ["Wonder"] },
+        { "text": "Pi", "icons": ["Science"] },
+        { "text": "Refrigerator", "icons": ["Daily use"] }
+      ]
+    },
+    {
+      "id": "T3-44",
+      "tier": 3,
+      "rows": [
+        { "text": "Tax", "icons": ["Concepts"] },
+        { "text": "Philosophy", "icons": ["Concepts"] },
+        { "text": "Virtue", "icons": ["Concepts"] },
+        { "text": "Theory of Evolution", "icons": ["Science"] },
+        { "text": "Canned Food", "icons": ["Daily use"] }
+      ]
+    },
+    {
+      "id": "T3-45",
+      "tier": 3,
+      "rows": [
+        { "text": "Maid", "icons": ["Daily use"] },
+        { "text": "Advertisement", "icons": ["Concepts"] },
+        { "text": "Medal", "icons": ["Military"] },
+        { "text": "Aqua Regia", "icons": ["Science"] },
+        { "text": "Spirit", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T3-46",
+      "tier": 3,
+      "rows": [
+        { "text": "Tequila", "icons": ["Daily use"] },
+        { "text": "Festival", "icons": ["Concepts"] },
+        { "text": "Airship", "icons": ["Science"] },
+        { "text": "Anatomy", "icons": ["Science"] },
+        { "text": "Hand grenade", "icons": ["Military"] }
+      ]
+    },
+    {
+      "id": "T3-47",
+      "tier": 3,
+      "rows": [
+        { "text": "Honey", "icons": ["Daily use"] },
+        { "text": "Courthouse", "icons": ["Daily use"] },
+        { "text": "Tank", "icons": ["Military"] },
+        { "text": "Parasite", "icons": ["Military"] },
+        { "text": "Sample", "icons": ["Science"] }
+      ]
+    },
+    {
+      "id": "T3-48",
+      "tier": 3,
+      "rows": [
+        { "text": "Well", "icons": ["Daily use"] },
+        { "text": "Fresco", "icons": ["Concepts"] },
+        { "text": "General", "icons": ["Military"] },
+        { "text": "Acrobat", "icons": ["Concepts"] },
+        { "text": "Sundial", "icons": ["Science"] }
+      ]
+    },
+    {
+      "id": "T3-49",
+      "tier": 3,
+      "rows": [
+        { "text": "Street Food", "icons": ["Daily use"] },
+        { "text": "Shrine", "icons": ["Wonder"] },
+        { "text": "Newspaper", "icons": ["Daily use"] },
+        { "text": "Ferris Wheel", "icons": ["Wonder"] },
+        { "text": "Pilgrimage", "icons": ["Concepts"] }
+      ]
+    },
+    {
+      "id": "T3-50",
+      "tier": 3,
+      "rows": [
+        { "text": "Boardgame", "icons": ["Daily use"] },
+        { "text": "Election", "icons": ["Concepts"] },
+        { "text": "Bioweapon", "icons": ["Military"] },
+        { "text": "Periodic Table", "icons": ["Science"] },
+        { "text": "Smoke Signal", "icons": ["Military"] }
+      ]
+    },
+    {
+      "id": "T3-51",
+      "tier": 3,
+      "rows": [
+        { "text": "Picnic", "icons": ["Daily use"] },
+        { "text": "Polytheism", "icons": ["Concepts"] },
+        { "text": "Conscription", "icons": ["Military"] },
+        { "text": "Vacuum", "icons": ["Science"] },
+        { "text": "Millions", "icons": ["Concepts"] }
+      ]
+    },
+    {
+      "id": "T3-52",
+      "tier": 3,
+      "rows": [
+        { "text": "Invoice", "icons": ["Daily use"] },
+        { "text": "Clown", "icons": ["Concepts"] },
+        { "text": "Arena", "icons": ["Military"] },
+        { "text": "Printing Press", "icons": ["Science"] },
+        { "text": "Uniform", "icons": ["Daily use"] }
+      ]
+    },
+    {
+      "id": "T3-53",
+      "tier": 3,
+      "rows": [
+        { "text": "Fraud", "icons": ["Concepts"] },
+        { "text": "Solar Eclipse", "icons": ["Wonder"] },
+        { "text": "Special Forces", "icons": ["Military"] },
+        { "text": "Electromagnet", "icons": ["Science"] },
+        { "text": "Talisman", "icons": ["Wonder"] }
+      ]
+    },
+    {
+      "id": "T3-54",
+      "tier": 3,
+      "rows": [
+        { "text": "Sushi", "icons": ["Daily use"] },
+        { "text": "Woodcut Print", "icons": ["Concepts"] },
+        { "text": "Martial Arts", "icons": ["Military"] },
+        { "text": "Lightning Rod", "icons": ["Science"] },
+        { "text": "Business", "icons": ["Concepts"] }
+      ]
+    },
+    {
+      "id": "T3-55",
+      "tier": 3,
+      "rows": [
+        { "text": "Honeymoon", "icons": ["Concepts"] },
+        { "text": "Stained Glass", "icons": ["Wonder"] },
+        { "text": "Captive", "icons": ["Military"] },
+        { "text": "Encyclopedia", "icons": ["Science"] },
+        { "text": "Lottery", "icons": ["Concepts"] }
+      ]
+    }
+  ],
+  "T4": [
+    {
+      "id": "T4-56",
+      "tier": 4,
+      "rows": [
+        { "text": "Franchise", "icons": ["Daily use", "Concepts"] },
+        { "text": "Fairy Tale", "icons": ["Wonder", "Concepts"] },
+        { "text": "Doping", "icons": ["Military", "Science"] },
+        { "text": "MRI", "icons": ["Science", "Science"] },
+        { "text": "Excalibur", "icons": ["Wonder", "Military"] }
+      ]
+    },
+    {
+      "id": "T4-57",
+      "tier": 4,
+      "rows": [
+        { "text": "Flatshare", "icons": ["Daily use", "Daily use"] },
+        { "text": "Shares", "icons": ["Concepts", "Daily use"] },
+        { "text": "Big Bang", "icons": ["Science", "Wonder"] },
+        { "text": "Trigonometry", "icons": ["Science", "Science"] },
+        { "text": "Armageddon", "icons": ["Wonder", "Military"] }
+      ]
+    },
+    {
+      "id": "T4-58",
+      "tier": 4,
+      "rows": [
+        { "text": "Breeding", "icons": ["Science", "Daily use"] },
+        { "text": "Prejudice", "icons": ["Concepts", "Concepts"] },
+        { "text": "Malware", "icons": ["Military", "Science"] },
+        { "text": "Artificial Intelligence", "icons": ["Science", "Wonder"] },
+        { "text": "Tower of Babel", "icons": ["Wonder", "Concepts"] }
+      ]
+    },
+    {
+      "id": "T4-59",
+      "tier": 4,
+      "rows": [
+        { "text": "Social Network", "icons": ["Daily use", "Concepts"] },
+        { "text": "Hypnosis", "icons": ["Concepts", "Wonder"] },
+        { "text": "Hacking", "icons": ["Military", "Science"] },
+        { "text": "Theory of Relativity", "icons": ["Science", "Science"] },
+        { "text": "Medusa", "icons": ["Wonder", "Military"] }
+      ]
+    },
+    {
+      "id": "T4-60",
+      "tier": 4,
+      "rows": [
+        { "text": "Cubism", "icons": ["Concepts", "Concepts"] },
+        { "text": "Atheism", "icons": ["Concepts", "Concepts"] },
+        { "text": "Civil War", "icons": ["Military", "Military"] },
+        { "text": "Internet", "icons": ["Science", "Daily use"] },
+        { "text": "Spear of Longinus", "icons": ["Wonder", "Military"] }
+      ]
+    },
+    {
+      "id": "T4-61",
+      "tier": 4,
+      "rows": [
+        { "text": "Job Hunting", "icons": ["Daily use", "Concepts"] },
+        { "text": "Indulgence", "icons": ["Concepts", "Wonder"] },
+        { "text": "Declaration of Independence", "icons": ["Concepts", "Military"] },
+        { "text": "Credit Card", "icons": ["Daily use", "Science"] },
+        { "text": "Warp Drive", "icons": ["Science", "Wonder"] }
+      ]
+    },
+    {
+      "id": "T4-62",
+      "tier": 4,
+      "rows": [
+        { "text": "World Peace", "icons": ["Concepts", "Wonder"] },
+        { "text": "Hell", "icons": ["Wonder", "Wonder"] },
+        { "text": "Revolution", "icons": ["Military", "Concepts"] },
+        { "text": "Cryptocurrency", "icons": ["Science", "Concepts"] },
+        { "text": "Freeze Drying", "icons": ["Science", "Daily use"] }
+      ]
+    },
+    {
+      "id": "T4-63",
+      "tier": 4,
+      "rows": [
+        { "text": "World Heritage Site", "icons": ["Daily use", "Concepts"] },
+        { "text": "Séance", "icons": ["Wonder", "Concepts"] },
+        { "text": "Sabotage", "icons": ["Military", "Concepts"] },
+        { "text": "Authentication", "icons": ["Science", "Concepts"] },
+        { "text": "Pyramid", "icons": ["Wonder", "Daily use"] }
+      ]
+    },
+    {
+      "id": "T4-64",
+      "tier": 4,
+      "rows": [
+        { "text": "TV Ratings", "icons": ["Concepts", "Daily use"] },
+        { "text": "Communism", "icons": ["Concepts", "Concepts"] },
+        { "text": "Double Agent", "icons": ["Military", "Concepts"] },
+        { "text": "GPS", "icons": ["Science", "Daily use"] },
+        { "text": "Helicopter", "icons": ["Science", "Military"] }
+      ]
+    },
+    {
+      "id": "T4-65",
+      "tier": 4,
+      "rows": [
+        { "text": "Chain Letter", "icons": ["Daily use", "Concepts"] },
+        { "text": "Self", "icons": ["Concepts", "Concepts"] },
+        { "text": "Darkness", "icons": ["Concepts", "Wonder"] },
+        { "text": "Energy", "icons": ["Science", "Concepts"] },
+        { "text": "Photosynthesis", "icons": ["Science", "Science"] }
+      ]
+    },
+    {
+      "id": "T4-66",
+      "tier": 4,
+      "rows": [
+        { "text": "Marketing", "icons": ["Concepts", "Daily use"] },
+        { "text": "Narcissist", "icons": ["Concepts", "Concepts"] },
+        { "text": "Corruption", "icons": ["Military", "Concepts"] },
+        { "text": "Drone", "icons": ["Science", "Military"] },
+        { "text": "Dancing Lights", "icons": ["Wonder", "Concepts"] }
+      ]
+    },
+    {
+      "id": "T4-67",
+      "tier": 4,
+      "rows": [
+        { "text": "Prohibition", "icons": ["Concepts", "Military"] },
+        { "text": "Demographic", "icons": ["Science", "Concepts"] },
+        { "text": "Dictator", "icons": ["Military", "Concepts"] },
+        { "text": "Nuclear Fusion", "icons": ["Science", "Science"] },
+        { "text": "Best Friend", "icons": ["Concepts", "Daily use"] }
+      ]
+    },
+    {
+      "id": "T4-68",
+      "tier": 4,
+      "rows": [
+        { "text": "Insider Trading", "icons": ["Concepts", "Military"] },
+        { "text": "Book-Lover", "icons": ["Concepts", "Daily use"] },
+        { "text": "Great Depression", "icons": ["Concepts", "Military"] },
+        { "text": "Allergy", "icons": ["Science", "Daily use"] },
+        { "text": "Contradiction", "icons": ["Concepts", "Concepts"] }
+      ]
+    },
+    {
+      "id": "T4-69",
+      "tier": 4,
+      "rows": [
+        { "text": "Eat-In", "icons": ["Daily use", "Daily use"] },
+        { "text": "Fandom", "icons": ["Concepts", "Daily use"] },
+        { "text": "Refugee", "icons": ["Military", "Concepts"] },
+        { "text": "Implant", "icons": ["Science", "Military"] },
+        { "text": "Prism", "icons": ["Science", "Wonder"] }
+      ]
+    }
+  ],
+  "T5": [
+    {
+      "id": "T5-70",
+      "tier": 5,
+      "rows": [
+        { "text": "Subscription", "icons": ["Daily use", "Concepts", "Science"] },
+        { "text": "Heart transplant", "icons": ["Science", "Science", "Daily use"] },
+        { "text": "Wormhole", "icons": ["Science", "Wonder", "Wonder"] },
+        { "text": "Time-Travel", "icons": ["Science", "Wonder", "Concepts"] },
+        { "text": "Psychological complex", "icons": ["Concepts", "Science", "Concepts"] }
+      ]
+    },
+    {
+      "id": "T5-71",
+      "tier": 5,
+      "rows": [
+        { "text": "Space Colony", "icons": ["Science", "Wonder", "Daily use"] },
+        { "text": "Schrödinger’s cat", "icons": ["Science", "Concepts", "Wonder"] },
+        { "text": "Camouflage", "icons": ["Military", "Science", "Daily use"] },
+        { "text": "Global Warming", "icons": ["Science", "Concepts", "Military"] },
+        { "text": "Reincarnation", "icons": ["Wonder", "Concepts", "Concepts"] }
+      ]
+    },
+    {
+      "id": "T5-72",
+      "tier": 5,
+      "rows": [
+        { "text": "Parallel World", "icons": ["Science", "Wonder", "Wonder"] },
+        { "text": "Enlightenment", "icons": ["Concepts", "Concepts", "Wonder"] },
+        { "text": "Supernova", "icons": ["Science", "Wonder", "Military"] },
+        { "text": "Elementary particle", "icons": ["Science", "Science", "Science"] },
+        { "text": "International Law", "icons": ["Concepts", "Military", "Concepts"] }
+      ]
+    },
+    {
+      "id": "T5-73",
+      "tier": 5,
+      "rows": [
+        { "text": "Designer Baby", "icons": ["Science", "Concepts", "Daily use"] },
+        { "text": "Dystopia", "icons": ["Concepts", "Military", "Wonder"] },
+        { "text": "Post-Apocalypse", "icons": ["Wonder", "Military", "Military"] },
+        { "text": "Cryogenic Sleep", "icons": ["Science", "Science", "Wonder"] },
+        { "text": "Antimatter", "icons": ["Science", "Military", "Wonder"] }
+      ]
+    },
+    {
+      "id": "T5-74",
+      "tier": 5,
+      "rows": [
+        { "text": "Gene", "icons": ["Science", "Science", "Concepts"] },
+        { "text": "Basic Income", "icons": ["Concepts", "Daily use", "Concepts"] },
+        { "text": "Game Theory", "icons": ["Concepts", "Science", "Military"] },
+        { "text": "Nanomachines", "icons": ["Science", "Science", "Daily use"] },
+        { "text": "Vegan", "icons": ["Concepts", "Daily use", "Daily use"] }
+      ]
+    },
+    {
+      "id": "T5-75",
+      "tier": 5,
+      "rows": [
+        { "text": "Noblesse oblige", "icons": ["Concepts", "Concepts", "Military"] },
+        { "text": "Dark Matter", "icons": ["Science", "Wonder", "Science"] },
+        { "text": "World War III", "icons": ["Military", "Military", "Military"] },
+        { "text": "Perpetual Motion Machine", "icons": ["Science", "Wonder", "Concepts"] },
+        { "text": "Globalism", "icons": ["Concepts", "Daily use", "Science"] }
+      ]
+    },
+    {
+      "id": "T5-76",
+      "tier": 5,
+      "rows": [
+        { "text": "Influencer", "icons": ["Concepts", "Daily use", "Daily use"] },
+        { "text": "Esotericism", "icons": ["Concepts", "Wonder", "Wonder"] },
+        { "text": "Space War", "icons": ["Military", "Science", "Wonder"] },
+        { "text": "Quantum Computer", "icons": ["Science", "Science", "Science"] },
+        { "text": "Economic Sanctions", "icons": ["Military", "Concepts", "Daily use"] }
+      ]
+    }
+  ]
+}
